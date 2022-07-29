@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f3b6e8a5.css",
+    "main.js": "/Portfolio/static/js/main.f3ca8012.js",
+    "static/media/Dev_resume.pdf": "/Portfolio/static/media/Dev_resume.3653667cc5c5c5ad6505.pdf",
+    "static/media/website.png": "/Portfolio/static/media/website.b99394ac0a0ce91c8366.png",
+    "static/media/imageclassification.png": "/Portfolio/static/media/imageclassification.a1b6ae49f44887484fc1.png",
+    "static/media/dev_img_new.png": "/Portfolio/static/media/dev_img_new.6652b780aab4202c1627.png",
+    "static/media/python.png": "/Portfolio/static/media/python.49c4c5298daab61efe71.png",
+    "static/media/c++.png": "/Portfolio/static/media/c++.848ffa125321bf630b64.png",
+    "static/media/FER.png": "/Portfolio/static/media/FER.a393b93fdf03d281c496.png",
+    "static/media/jupyter-notebook.png": "/Portfolio/static/media/jupyter-notebook.e0e612fd290b62ecd44a.png",
+    "static/media/thumbup.png": "/Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/Pandas_logo.png": "/Portfolio/static/media/Pandas_logo.93ca57a9ee3ff386aaac.png",
+    "static/media/crown.png": "/Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.67c48b012164d107eef0.png",
+    "index.html": "/Portfolio/index.html",
+    "main.f3b6e8a5.css.map": "/Portfolio/static/css/main.f3b6e8a5.css.map",
+    "main.f3ca8012.js.map": "/Portfolio/static/js/main.f3ca8012.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b6e8a5.css",
+    "static/js/main.f3ca8012.js"
+  ]
+}
